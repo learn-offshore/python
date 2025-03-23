@@ -1,1 +1,1 @@
-ge = 18
+(index < length)
