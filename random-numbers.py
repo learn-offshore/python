@@ -15,3 +15,7 @@ print(random.choice(name))
 # print(randrange(2, 10, 3)) #[2, 5, 8]
 
 # print(randint(1,6))
+
+a ** b
+
+pow(4, 3) # 4 ** 3

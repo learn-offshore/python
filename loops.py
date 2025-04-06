@@ -1,35 +1,56 @@
-# while loop
+# # while loop
+# import random
+# characters = ['h', 'a', 's', 'e', 'e', 'b']
+# newList = characters[:] #copy of list
 
-characters = ['h', 'a', 's', 'e', 'e', 'b', 'h', 'a', 's', 'e', 'e', 'b']
+# # random.randrange(start, stop, step)
+# # 
+# print(characters[0:6:2])
+# # print("".join(characters))
+# # print(str(characters))
 
-i = 0
+# i = 0
 
-length = len(characters) #6
+# length = len(characters) #6
 
-while (i < length): # 0-5
-    print(f'index: {i}')
-    print(characters[i] + '#', '\n')
-    i = i + 1
+# while (i < length): # 0-5
+#     print(f'index: {i}')
+#     print(characters[i] + '#', '\n')
+#     i = i + 1
+#     if(i == 3):
+#         continue
 
-print('exited the loop')
-print(i)
+# # print('exited the loop')
+# # print(i)
 
-
-
-
-# print(characters[0] + '#')
-# print(characters[1] + '#')
-# print(characters[2] + '#')
-# print(characters[3] + '#')
-# print(characters[4] + '#')
-# print(characters[5] + '#')
-
+# name = "pankaj"
+# print(list(name))
 
 
-# Print Hello World 100 times
+# # print(bool(a)) int(), float(), str()
+# # A = 10
 
-# Write a program to print the table of a number inputed by the user.
+# # print(A)
 
-# Write a program to print all the even numbers in a given range.
+# # a, b, c = 5, 10, 5
 
-# Write a program to count occurence of a character.
+# # print(characters[0] + '#')
+# # print(characters[1] + '#')
+# # print(characters[2] + '#')
+# # print(characters[3] + '#')
+# # print(characters[4] + '#')
+# # print(characters[5] + '#')
+
+
+# # Print Hello World 100 times
+
+# # Write a program to print the table of a number inputed by the user.
+
+# # Write a program to print all the even numbers in a given range.
+
+# # Write a program to count occurence of a character.
+
+# number = input("Enter a number")
+
+print('pankaj', 'kumar', end='\n\n')
+print('new name')

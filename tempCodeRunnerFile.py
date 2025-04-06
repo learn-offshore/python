@@ -1,1 +1,1 @@
-(index < length)
+#
